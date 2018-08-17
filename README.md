@@ -1,3 +1,5 @@
+Copied from https://github.com/poftwaresatent/estar2.git and experimenting for my purpose.
+
 E* v2 -- Minimal Interpolated Graph Replanner
 =============================================
 Copyright (C) 2013, Roland Philippsen. All rights reserved.
